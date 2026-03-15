@@ -73,7 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randy0410&repo=aft2.0&theme=tokyonight" />
 </a>
 
-**Stack Technique:** Next.js 15 · React 19 · Tailwind CSS v4 · Turbopack
+<!-- **Stack Technique:** Next.js 15 · React 19 · Tailwind CSS v4 · Turbopack
 
 **Fonctionnalités:**
 - 🎯 Page d'accueil moderne avec interface interactive
@@ -87,12 +87,12 @@
 - Signaux de Trading (Forex, Crypto, Actions)
 - Journal de Trading Automatisé (FTA Tracker)
 - Coaching Privé & Mentorat
-- Programme Elite Trader Experience
+- Programme Elite Trader Experience -->
 
 ---
 
-#### 📚 FTA Etude
-<a href="https://github.com/Randy0410/fta-etude">
+#### 📚 FTA Tracker
+<a href="https://ftatrackerjournal.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randy0410&repo=fta-etude&theme=tokyonight" />
 </a>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
   💼 Ouvert à la collaboration sur des projets intéressants<br/>
-  📧 Contactez-moi: <b>votre.email@example.com</b>
+  📧 Contactez-moi: <b>randyjoseph0000@gmail.com</b>
 </p>
 
 <div align="center">
