@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Randy+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer;Building+amazing+applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Salut!+Je+suis+Randy+%F0%9F%91%8B;Développeur+Full+Stack+%26+Mobile;Je+crée+des+applications+incroyables!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Passionate Developer | Full Stack & Mobile Enthusiast</h3>
+<h3 align="center">🚀 Développeur Passionné | Expert Full Stack & Mobile</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -11,16 +11,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 À Propos de Moi
 
-- 🔭 Currently working on **Fundamental Trader Academy (FTA)** - Next.js Web Application
-- 🌱 Learning advanced **Web Development** with Next.js 15 & Tailwind CSS v4
-- 💼 Specializing in **Full Stack** & **Mobile Development**
-- ⚡ Fun fact: I love building modern, responsive web applications with beautiful UIs!
+- 🔭 Actuellement en train de travailler sur **Fundamental Trader Academy (FTA)** - Application Web Next.js
+- 🌱 J'apprends le **Développement Web avancé** avec Next.js 15 & Tailwind CSS v4
+- 💼 Spécialisé en **Développement Full Stack** & **Mobile**
+- ⚡ Fun fact: J'adore créer des applications web modernes et responsives avec de belles interfaces!
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack Technique
 
 **Frontend & Mobile**
 <p>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Backend & Database**
+**Backend & Base de Données**
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-**Tools & Others**
+**Outils & Autres**
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -66,28 +66,28 @@
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Projets Phares
 
 #### 🎓 Fundamental Trader Academy (FTA)
 <a href="https://github.com/Randy0410/aft2.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randy0410&repo=aft2.0&theme=tokyonight" />
 </a>
 
-**Tech Stack:** Next.js 15 · React 19 · Tailwind CSS v4 · Turbopack
+**Stack Technique:** Next.js 15 · React 19 · Tailwind CSS v4 · Turbopack
 
-**Features:**
-- 🎯 Modern landing page with interactive UI
-- 📱 Fully responsive design (mobile & desktop)
-- 🎨 Advanced animations & gradient effects
-- 🖼️ Interactive image gallery with modal
-- 📝 Automated testimonial carousel
-- 🔥 Optimized with Next.js Image component
+**Fonctionnalités:**
+- 🎯 Page d'accueil moderne avec interface interactive
+- 📱 Design entièrement responsive (mobile & desktop)
+- 🎨 Animations avancées & effets de gradient
+- 🖼️ Galerie d'images interactive avec modal
+- 📝 Carrousel de témoignages automatisé
+- 🔥 Optimisé avec Next.js Image component
 
 **Services:**
-- Trading Signals (Forex, Crypto, Stocks)
-- Automated Trading Journal (FTA Tracker)
-- Private Coaching & Mentorship
-- Elite Trader Experience Program
+- Signaux de Trading (Forex, Crypto, Actions)
+- Journal de Trading Automatisé (FTA Tracker)
+- Coaching Privé & Mentorat
+- Programme Elite Trader Experience
 
 ---
 
@@ -98,11 +98,11 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Restons Connectés!
 
 <p align="center">
-  💼 Open to collaborating on interesting projects<br/>
-  📧 Reach me at: <b>votre.email@example.com</b>
+  💼 Ouvert à la collaboration sur des projets intéressants<br/>
+  📧 Contactez-moi: <b>votre.email@example.com</b>
 </p>
 
 <div align="center">
