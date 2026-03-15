@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **FTA Mobile App** (Flutter + NestJS)
-- 🌱 Learning advanced **Mobile Development** and **Backend Architecture**
+- 🔭 Currently working on **Fundamental Trader Academy (FTA)** - Next.js Web Application
+- 🌱 Learning advanced **Web Development** with Next.js 15 & Tailwind CSS v4
 - 💼 Specializing in **Full Stack** & **Mobile Development**
-- ⚡ Fun fact: I love building real-time chat applications with WebSockets!
+- ⚡ Fun fact: I love building modern, responsive web applications with beautiful UIs!
 
 ---
 
@@ -24,6 +24,9 @@
 
 **Frontend & Mobile**
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -65,6 +68,30 @@
 
 ### 🏆 Featured Projects
 
+#### 🎓 Fundamental Trader Academy (FTA)
+<a href="https://github.com/Randy0410/aft2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randy0410&repo=aft2.0&theme=tokyonight" />
+</a>
+
+**Tech Stack:** Next.js 15 · React 19 · Tailwind CSS v4 · Turbopack
+
+**Features:**
+- 🎯 Modern landing page with interactive UI
+- 📱 Fully responsive design (mobile & desktop)
+- 🎨 Advanced animations & gradient effects
+- 🖼️ Interactive image gallery with modal
+- 📝 Automated testimonial carousel
+- 🔥 Optimized with Next.js Image component
+
+**Services:**
+- Trading Signals (Forex, Crypto, Stocks)
+- Automated Trading Journal (FTA Tracker)
+- Private Coaching & Mentorship
+- Elite Trader Experience Program
+
+---
+
+#### 📚 FTA Etude
 <a href="https://github.com/Randy0410/fta-etude">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randy0410&repo=fta-etude&theme=tokyonight" />
 </a>
@@ -75,7 +102,7 @@
 
 <p align="center">
   💼 Open to collaborating on interesting projects<br/>
-  📧 Reach me at: <b>randyjoseph0000@gmail.com</b>
+  📧 Reach me at: <b>votre.email@example.com</b>
 </p>
 
 <div align="center">
