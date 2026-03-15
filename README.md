@@ -69,7 +69,7 @@
 ### 🏆 Projets Phares
 
 #### 🎓 Fundamental Trader Academy (FTA)
-<a href="https://github.com/Randy0410/aft2.0">
+<a href="https://fondamentaltradermalagasy.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randy0410&repo=aft2.0&theme=tokyonight" />
 </a>
 
